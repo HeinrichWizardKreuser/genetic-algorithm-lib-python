@@ -1,9 +1,9 @@
 '''
 Here we showcase the use of GeneticAlgorithmLib by creating a population to
 guess any word of choice. To guess your word, simply run:
-$ java Example1Unicorn <your word>
+$ python3 example1unicorn.py <your word>
 for example:
-$ java Example1Unicorn Unicorn
+$ python3 example1unicorn.py Unicorn
 and see what happens!
 '''
 
